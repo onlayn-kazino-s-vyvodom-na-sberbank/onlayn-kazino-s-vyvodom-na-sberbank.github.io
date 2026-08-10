@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: onlayn-kazino-s-vyvodom-na-sberbank.github.io
+Sitemap: https://onlayn-kazino-s-vyvodom-na-sberbank.github.io/sitemap.xml
